@@ -7806,4 +7806,7 @@ ul {
   .approval-board-modal2 .u-checkbox .u-checkbox-label:after {
     top: -9px; }
 
+.ac-btns span.ac-btns-item {
+  pointer-events: none; }
+
 /*# sourceMappingURL=demo.css.map */
